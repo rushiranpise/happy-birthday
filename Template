@@ -1,0 +1,19 @@
+Do Changes in following file
+
+1.index.html
+<div class="one">
+      <h1 class="one">Hey
+        <span id="name">UR TEXT HERE</span>
+      </h1>
+      <p class="two" id="greetingText">UR TEXT HERE</p>
+    </div>
+    
+    <img src="img/UR TEXT HERE.png" alt="" class="lydia-dp" id="imagePath">
+    
+    <div class="wish">
+        <h3 class="wish-hbd">Happy Birthday!</h3>
+        <h5 id="wishText">UR TEXT HERE ;)</h5>
+      </div>
+      
+      2. Img foler
+      UR TEXT HERE.png
